@@ -1,5 +1,5 @@
 # MITx6.00.2x Introduction to Computational Thinking and Data Science
-An introduction to using computation to understand real-world phenomena. John Guttag, Dugald C. Jackson Professor of Computer Science and Electrical Engineering, MIT
+An introduction to using computation to understand real-world phenomena. John Guttag, Dugald C. Jackson Professor of Computer Science and Electrical Engineering, Massachusetts Institute of Technology 
 
 This course is the second of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. 
 
