@@ -16,3 +16,8 @@ Topics covered include:
     Monte Carlo simulations
     Curve fitting
     Statistical fallacies
+    
+    John V. Guttag (August 2016) »Introduction to Computation and Programming Using Python«, 
+    Second Edition With Application to Understanding Data, ISBN: 9780262529624 
+    
+    
